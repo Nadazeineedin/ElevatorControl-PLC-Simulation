@@ -32,8 +32,8 @@ Through this project, we demonstrate the synergy between Allen-Bradley PLC techn
 
 
 # Note!
-thi project done by 
-Zuhour Alsaqqa, 
+Note: This project has been done with my colleague:
+[zuhouralsaqa](https://github.com/zuhouralsaqa),
 Nada Zeineddin,
 Rawan Hassan, 
 Osama Obeid 
